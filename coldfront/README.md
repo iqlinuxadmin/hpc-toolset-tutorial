@@ -468,7 +468,7 @@ Name: type `project storage`
 Description: enter anything you want  
 Ensure that the following are checked:  `Is available`, `Is public`, `Is allocatable`  
 Under the resource attributes section, click `Add another Resource attribute` and select `quantity_label` from the drop down menu.  In the `value` field, enter `Enter storage in 1TB increments`  
-Click `Add another Resource attribute` and select `quantity_default_value` from the drop down menu.  In the `1`  
+Click `Add another Resource attribute` and select `quantity_default_value` from the drop down menu.  In the `value` field, enter `1`  
 Click `Add another Resource attribute` and select `OnDemand` from the drop down menu.  In the `value` field, enter `Yes`  
 - Then click `SAVE`  
 
@@ -538,7 +538,7 @@ You'll need to log in as some of the users for this tutorial to get things start
 - Log out  
 - Log in locally as username `admin` password: `admin`
 - Go to Admin menu and click on `ColdFront Administration`  Once there, scroll halfway down to the `Authentication and Authorization` section.  Then click on the `Users` link 
-- Click on the `hpcadmin` username (not the checkbox next to it) and scroll down to the `Permissions` section  
+- Click on the `hpcadmin` username (not the checkbox next to it) and scroll down to the `Permissions` section in the `Change User` window 
 - Make this user a `superuser` by checking the boxes next to `Staff Status` and `Superuser Status` - scroll to the bottom and click `SAVE`  
 - Click on the `sfoster` account.  Under the `User Permissions` section add permissions to make this user the Center Director  
  `allocation | allocation | Can manage invoice`   
