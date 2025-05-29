@@ -514,7 +514,8 @@ NOTE: If there is a project you never want project reviews on, uncheck 'Requires
 
 ## Starting from Scratch (Half Day Tutorial)
 <details>
-These steps were done in advance to allow for the presentation of a condensed half day version of the tutorial.  If you would like to go through these steps yourself, destroy the containers, and delete the ColdFront database. Start the containers which will create a new, empty coldfront database.  Then log in to ColdFront and follow the steps below:
+These steps were done in advance to allow for the presentation of a condensed half day version of the tutorial.  If you would like to go through these steps yourself, destroy the containers, and delete the ColdFront database. Start the containers which will create a new, empty coldfront database.  Then log in to ColdFront and follow the steps below.
+### Create a new, empty coldfront database
 
 ```
 ./hpcts destroy
