@@ -594,7 +594,7 @@ Add an allocation attribute type:
 
 Make an allocation attribute changeable:  
 - Under the `Allocation` section, click on `Allocation Attribute Types`  
-- Click on `Storage Quota` check the box next to `Is changeable` and then click the `SAVE` button
+- Click on the number to the left of `Storage Quota`.  In the `Change allocation attribute type` window, check the `Is changeable` box, then click the `SAVE` button
 - Log out  
 
 ### Create a project & request an allocation  
