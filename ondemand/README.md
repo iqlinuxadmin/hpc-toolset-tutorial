@@ -153,10 +153,10 @@ column of the central table go from queued to running to completed.
 Let's go ahead and edit the script we submit by pressing the `Open Editor` button
 at the bottom of the script's panel (you likely have to scroll down).
 
-Add this `sleep 1000` anywhere in the file (so long as it's not commented).
+Add this `sleep 300` anywhere in the file (so long as it's not commented).
 
 ```bash
-sleep 1000
+sleep 300
 ```
 
 Submit this job again and next we'll see another view where you can see
