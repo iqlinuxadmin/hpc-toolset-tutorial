@@ -254,9 +254,12 @@ Navigate back to Open OnDemand's `My interactive sessions` page and press the
 `Connect to Jupyter` button. This will open a new tab to the Jupyter application
 that's running on a compute node in your Slurm cluster!
 
-Connect to the Jupyter session and navigate to the `jupyter_notebook_data` directory.
-Open the `GUI-demo.ipynb` and this should open a new tab to this notebook. Run all
-the cells in this notebook for a demonstration that this Jupyter does in fact work.
+Connect to the Jupyter session and click on the `jupyter_notebook_data` directory in the leftmost panel.
+Open the `GUI-demo.ipynb` and this should open a new tab to this notebook. The notebook has three cells,
+each with a number on the left, and a block of code next to it.  Run all
+the cells in this notebook in order by clicking `Shift-enter` on each one for a demonstration that this
+Jupyter demo does in fact work.
+
 
 ![jupyter demo](imgs/jupyter_demo.gif)
 
