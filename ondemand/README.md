@@ -291,7 +291,7 @@ Lastly there's a new link entitled `Chemistry Notes`. Press this link
 and you'll be redirected to a custom page.  This page is completely defined
 by administrators. Administrators supplied every single panel on this page.
 The idea here being that administrators can supply content to their own OnDemand
-installation, thereby extending it's functionality by also supplying some
+installation, thereby extending its functionality by also supplying some
 documentation.
 
 ![profile demo](imgs/profile_demo.gif)
