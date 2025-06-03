@@ -511,7 +511,7 @@ dashboard_layout:
           widgets: [ pinned_apps ]
 ```
 
-Now your dashboard should look something like this with a brand new widget we just creating showing up on the
+Restart your webserver and your dashboard should look something like this with the brand new widget we just creating showing up on the
 dashboard.
 
 ![dashboard landing page with a new custom widget](imgs/dashboard_w_new_widget.png)
