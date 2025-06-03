@@ -368,7 +368,8 @@ OOD_BRAND_BG_COLOR='#5576d1'
 ```
 
 Now you may have to restart the server with the button at the top right to see the
-changes take place.
+changes take place.  Each time you restart the server, you'll have to
+[reopen the shell window.](https://localhost:3443/pun/sys/shell/ssh/ondemand)
 
 ![dashboard navbar button to restart the web server](imgs/restart_web_server.png)
 
