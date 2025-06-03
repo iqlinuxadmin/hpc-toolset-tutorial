@@ -368,8 +368,7 @@ OOD_BRAND_BG_COLOR='#5576d1'
 ```
 
 Now you may have to restart the server with the button at the top right to see the
-changes take place.  Each time you restart the server, you'll have to
-[reopen the shell window.](https://localhost:3443/pun/sys/shell/ssh/ondemand)
+changes take place.
 
 ![dashboard navbar button to restart the web server](imgs/restart_web_server.png)
 
@@ -391,8 +390,7 @@ touch ~/ondemand/config/ondemand.d/ondemand.yml
 
 OOD_CONFIG_D_DIRECTORY="/home/hpcadmin/ondemand/config/ondemand.d"
 ```
-
-Now let's [edit the ondemand.yml](https://localhost:3443/pun/sys/dashboard/files/edit/home/hpcadmin/ondemand/config/ondemand.d/ondemand.yml)
+Now let's [edit the ondemand.yml](https://localhost:3443/pun/sys/dashboard/files/edit/fs/home/hpcadmin/ondemand/config/ondemand.d/ondemand.yml)
 file that we initialized above to add the configuration.
 
 ```yaml
@@ -484,7 +482,7 @@ touch ~/ondemand/config/views/widgets/_hello_world.html
 Be sure to add the underscore prefix to this filename! This is a Rails convention for partials and not a mistype
 it is indeed `_hello_world.html`.
 
-Now, we can use the [file editor to edit our new widget](https://localhost:3443/pun/sys/dashboard/files/edit/home/hpcadmin/ondemand/config/views/widgets/_hello_world.html).  Let's add this very simple div to just thank you for being here. Of course, you can put
+Now, we can use the [file editor to edit our new widget](https://localhost:3443/pun/sys/dashboard/files/edit/fs/home/hpcadmin/ondemand/config/views/widgets/_hello_world.html).  Let's add this very simple div to just thank you for being here. Of course, you can put
 any text you like here. Feel free to have fun with it!
 
 ```html
