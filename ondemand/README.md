@@ -579,7 +579,7 @@ If you try to submit it as is, you'll get this error:
 
 ![error message that reads The cluster was never set. Either set it in form.yml.erb with `cluster` or `form.cluster` or set `cluster` in submit.yml.erb.](imgs/no_cluster.png)
 
-We need to edit the `form.yml` in the appication's folder. We can navigate to the folder through the
+We need to edit the `form.yml` in the application's folder. We can navigate to the folder through the
 files app.  The URL is `https://localhost:3443/pun/sys/files/fs/home/hpcadmin/ondemand/dev/jupyter/`.
 
 Here you'll see the `form.yml` file. We can edit it by clicking on the file and pressing the "Edit"
