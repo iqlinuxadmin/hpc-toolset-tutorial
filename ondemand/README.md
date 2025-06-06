@@ -557,9 +557,9 @@ or simply Press the "Files" button in Jupyter's row of the sandbox applications 
 
 ![create sandbox app](imgs/create_sandbox_app.gif)
 
-You'll also need to setup `git` for the hpcadmin user at this point, so let's go ahead and do that
-and make first commit to the jupyter app as the starting point.
-
+You'll also need to setup `git` for the hpcadmin user at this point, so let's go ahead and
+[open a shell window](https://localhost:3443/pun/sys/shell/ssh/ondemand).
+We'll make the first commit to the jupyter app as the starting point.
 ```shell
 git config --global user.email hpcadmin@localhost
 git config --global user.name "HPC Admin"
